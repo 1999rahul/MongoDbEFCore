@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0EzWIu3UTDvJHlGstf6hdYqdywLCog8IMT56IU4UaFc=",
+  "Source": "EfCoreMongoDB",
+  "BasePath": "_content/EfCoreMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
